@@ -65,5 +65,8 @@
 		"uuid": "^9.0.0",
 		"vite": "^4.4.9",
 		"zod": "^3.22.2"
+	},
+	"dependencies": {
+		"@fontsource-variable/edu-tas-beginner": "^5.0.8"
 	}
 }

@@ -4,7 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				mono: ['Roboto Mono Variable']
+				mono: ['Roboto Mono Variable'],
+				example: ['Edu TAS Beginner Variable']
 			}
 		}
 	},

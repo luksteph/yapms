@@ -1,4 +1,5 @@
 @import '@fontsource-variable/roboto-mono';
+@import '@fontsource-variable/edu-tas-beginner';
 
 @tailwind base;
 @tailwind components;

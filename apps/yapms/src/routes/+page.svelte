@@ -69,6 +69,7 @@
 			<button class="btn btn-square mr-2 inline md:hidden" on:click={openImportModal}
 				><ArrowUpTray class="h-8 m-auto" /></button
 			>
+			<a href="/community" class="btn btn-secondary">Community</a>
 		</div>
 		<div class="navbar-center">
 			<h1 class="text-2xl font-bold m-auto hidden lg:inline">
