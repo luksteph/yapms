@@ -43,6 +43,7 @@
 		"file-saver": "^2.0.5",
 		"glob": "^10.3.10",
 		"html-to-image": "^1.11.11",
+		"mocha": "^10.2.0",
 		"panzoom": "^9.4.3",
 		"pocketbase": "^0.18.0",
 		"postcss": "^8.4.29",
